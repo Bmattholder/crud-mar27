@@ -1,0 +1,21 @@
+.pagination {
+    margin: 15px auto;
+    width: 30%;
+    text-align: center;
+}
+
+.paginationNumber {
+    margin: 15px auto;
+    width: 30%;
+     text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.active {
+    color: royalblue;
+}
+
+.num {
+    cursor: pointer;
+}
